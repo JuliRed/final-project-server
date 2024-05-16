@@ -12,14 +12,17 @@ const Campus = db.define("campus", {
     type: Sequelize.STRING,
     allowNull: false
   },
-
   address: {
     type: Sequelize.STRING,
     allowNull: false
   },
-
   description: {
     type: Sequelize.STRING,
+  },
+  // Add the imageURL property
+  imageURL: {
+    type: Sequelize.TEXT('long'),
+    defaultValue: ""
   }
 });
 
