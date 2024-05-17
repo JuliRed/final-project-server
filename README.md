@@ -4,6 +4,5 @@ This repository is the server (back-end) starter code for our Final Project - a 
 
 ## Contributors
 
-Juliana Redondo - @JuliRed
-<br/>
+Juliana Redondo - @JuliRed  
 Drew Bruck - @DrewBruck
